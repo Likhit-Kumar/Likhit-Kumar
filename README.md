@@ -14,12 +14,12 @@ I am Likhit Kumar, people call me Likhit, currently pursuing my bachelor's degre
 - 📝 [Resume](https://www.linkedin.com/in/likhit-kumar/)
 
 
-📊 *This Week I Spent My Time On:*
+📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-text
+```text
 Angular JS   5 Hours 40 mins         ███████████████████░░░░░░   76.63 % 
 Flutter      2 Hours 11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.11 % 
-
+```
 <!--END_SECTION:waka-->
 
 
@@ -56,3 +56,7 @@ Flutter      2 Hours 11 mins         █████▓░░░░░░░░�
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=LK-18&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LK-18&hide=TeX&layout=compact)
+
+
+
+
