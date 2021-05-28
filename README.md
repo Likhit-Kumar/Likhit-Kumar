@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Likhit-Kumar
-- 👀 I’m interested in Web / App Development
-- 🌱 I’m currently pursuing B.Tech IT
-- 📫 How to reach me 
-- email : likhitkumarvp@gmail.com
 
-<!---
-Likhit-Kumar/Likhit-Kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Fancy seeing you here! 
+I am Likhit Kumar, people call me Likhit, currently pursuing my bachelor's degree majoring in computer science from Government colleage of Technology. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:GIF
+
+Linkedin Badge Instagram Badge Gmail Badge
+
+LK-18
+
+💬 Ask me about anything, I am happy to help;
+📫 How to reach me: @likzhit;
+📝 Resume
+📊 This Week I Spent My Time On:
+
+Angular JS   5 Hours 40 mins         ███████████████████░░░░░░   76.63 % 
+Flutter      2 Hours 11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.11 % 
+⚡ Technologies
+JavaScript Nodejs Python React Java C++ HTML5 CSS3 Bootstrap TypeScript MongoDB Redis ElasticSearch GraphQL Apollo GraphQL PostgreSQL MySQL Heroku Docker DigitalOcean Amazon AWS Microsoft Azure Google Cloud Git GitHub GitLab BitBucket Raspberry Pi
+
+Github Stats Top Langs
