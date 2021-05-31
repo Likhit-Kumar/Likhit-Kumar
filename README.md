@@ -5,7 +5,7 @@ I am Likhit Kumar, people call me Likhit, currently pursuing my bachelor's degre
 
 [![Linkedin Badge](https://img.shields.io/badge/-likhitkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/likhit-kumar/)](https://www.linkedin.com/in/likhit-kumar/)
 [![Instagram Badge](https://img.shields.io/badge/-likzhit-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/likzhit/)](https://www.instagram.com/likzhit/)
-[![Gmail Badge](https://img.shields.io/badge/-likhitkumar0618@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:likhitkumar0618@gmail.com)](mailto:likhitkumar0618@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-likhitkumarvp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:likhitkumarvp@gmail.com)](mailto:likhitkumarvp@gmail.com)
 <p align=left> <img src=https://komarev.com/ghpvc/?username=LK-18 alt=LK-18 /> </p>
 
 
