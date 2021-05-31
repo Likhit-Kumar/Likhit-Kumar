@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Likhit Kumar, people call me Likhit, currently pursuing my bachelor's degree majoring in computer science from [Government colleage of Technology](https://gct.ac.in/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here: 
+I am Likhit Kumar, people call me Likhit, currently pursuing my bachelor's degree majoring in Information Technology from [Government colleage of Technology](https://gct.ac.in/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here: 
 <img align="right" alt="GIF" src="https://epicprogrammerassets.netlify.app/Assets/me-coding.gif?raw=true" width="500" height="320" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-likhitkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/likhit-kumar/)](https://www.linkedin.com/in/likhit-kumar/)
