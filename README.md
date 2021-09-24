@@ -6,7 +6,7 @@ I am Likhit Kumar, people call me Likhit, currently pursuing my bachelor's degre
 [![Linkedin Badge](https://img.shields.io/badge/-likhitkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/likhit-kumar/)](https://www.linkedin.com/in/likhit-kumar/)
 [![Instagram Badge](https://img.shields.io/badge/-likzhit-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/likzhit/)](https://www.instagram.com/likzhit/)
 [![Gmail Badge](https://img.shields.io/badge/-likhitkumarvp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:likhitkumarvp@gmail.com)](mailto:likhitkumarvp@gmail.com)
-<p align=left> <img src=https://komarev.com/ghpvc/?username=LK-18 alt=LK-18 /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=Likhit-Kumar alt=Likhit-Kumar /> </p>
 
 
 - 💬 Ask me about anything, I am happy to help;
@@ -44,8 +44,8 @@ Flutter      2 Hours 11 mins         █████▓░░░░░░░░�
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LK-18&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LK-18&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Likhit-Kumar&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Likhit-Kumar&hide=TeX&layout=compact)
 
 
 
