@@ -1,16 +1,14 @@
 ## Hey there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Likhit Kumar, people call me Likhit, currently pursuing my bachelor's degree majoring in Information Technology from [Government colleage of Technology](https://gct.ac.in/). I am a tech enthusiast open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here: 
+I am Likhit, a tech enthusiast open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here: 
 <img align="right" alt="GIF" src="https://nostalgic-swanson-a007fd.netlify.app/img/programmer.gif" width="500" height="320" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-likhitkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/likhit-kumar/)](https://www.linkedin.com/in/likhit-kumar/)
-[![Instagram Badge](https://img.shields.io/badge/-likzhit-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/likzhit/)](https://www.instagram.com/likzhit/)
 [![Gmail Badge](https://img.shields.io/badge/-likhitkumarvp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:likhitkumarvp@gmail.com)](mailto:likhitkumarvp@gmail.com)
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Likhit-Kumar alt=Likhit-Kumar /> </p>
 
 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@likzhit](https://www.instagram.com/likzhit/);
 - 📝 [Resume](https://www.linkedin.com/in/likhit-kumar/)
 
 ## ⚡ Technologies
