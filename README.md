@@ -1,11 +1,23 @@
 <!-- Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hey+there!+👋;I'm+Likhit;Software+Analyst+%7C+Tech+Enthusiast;Problem+Solver+%7C+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hey+there!+👋;I'm+Likhit;Software+Developer+%7C+Tech+Enthusiast;Happy+to+see+you!" alt="Typing SVG" />
 </h1>
 
 ---
 
-## 🏆 Achievements & Stats  
+## About Me
+
+I’m a **Software Developer** passionate about **data-driven solutions, scalable systems, and clean design**.  
+I thrive at the intersection of analysis, development, and innovation.
+
+- 🔎 Specialize in **analyzing systems** and **building end-to-end solutions**  
+- 📊 Experienced with **Building Saas Applications, Provide Products and services**  
+- 🤝 Open to **collaboration on impactful projects**  
+- 📄 [Resume](https://www.linkedin.com/in/likhit-kumar/)  
+
+---
+
+## Achievements & Stats  
 
 <p align="center">
   <!-- Trophies (minimal, neat, no background) -->
@@ -21,15 +33,15 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🚀 Passionate about **analyzing systems, coding, and building scalable solutions**  
-- 💡 Open to collaborating on **innovative/disruptive projects**  
-- 💬 Ask me anything – always happy to help  
-- 📝 [Check out my Resume](https://www.linkedin.com/in/likhit-kumar/)  
+## My Analysis Workflow
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Likhit-Kumar/Likhit-Kumar/output/analysis-flow.svg" alt="Analysis Flow" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
@@ -38,6 +50,15 @@
   <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+</p>
+
+---
+
+## 🎥 Demos & Projects
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Likhit-Kumar/Likhit-Kumar/output/dashboard-demo.gif" width="420" alt="Dashboard Demo" />
+  <img src="https://raw.githubusercontent.com/Likhit-Kumar/Likhit-Kumar/output/automation-demo.gif" width="420" alt="Automation Demo" />
 </p>
 
 ---
