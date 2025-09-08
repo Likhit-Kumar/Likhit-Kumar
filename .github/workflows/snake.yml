@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   schedule: # Runs daily at midnight UTC
     - cron: "0 0 * * *"
-  workflow_dispatch: # Manual trigger
+  workflow_dispatch: # Allow manual trigger
   push:
     branches:
       - main
@@ -25,11 +25,11 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake-light.svg?palette=github-light
             dist/github-contribution-grid-snake.gif
-            dist/github-contribution-grid-snake.gif?palette=github-dark
-            dist/github-contribution-grid-snake.gif?palette=github-light
+            dist/github-contribution-grid-snake-dark.gif?palette=github-dark
+            dist/github-contribution-grid-snake-light.gif?palette=github-light
             dist/github-contribution-grid-snake.apng
-            dist/github-contribution-grid-snake.apng?palette=github-dark
-            dist/github-contribution-grid-snake.apng?palette=github-light
+            dist/github-contribution-grid-snake-dark.apng?palette=github-dark
+            dist/github-contribution-grid-snake-light.apng?palette=github-light
 
       - name: Push snake to output branch
         uses: EndBug/add-and-commit@v9
