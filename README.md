@@ -33,14 +33,6 @@ I thrive at the intersection of analysis, development, and innovation.
 
 ---
 
-## My Analysis Workflow
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Likhit-Kumar/Likhit-Kumar/output/analysis-flow.svg" alt="Analysis Flow" />
-</p>
-
----
-
 ## Tech Stack  
 
 <p align="center">
@@ -54,22 +46,11 @@ I thrive at the intersection of analysis, development, and innovation.
 
 ---
 
-## 🎥 Demos & Projects
+## Contribution
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Likhit-Kumar/Likhit-Kumar/output/dashboard-demo.gif" width="420" alt="Dashboard Demo" />
-  <img src="https://raw.githubusercontent.com/Likhit-Kumar/Likhit-Kumar/output/automation-demo.gif" width="420" alt="Automation Demo" />
+  <img src="./assets/metrics.plugin.isocalendar.svg" alt="Isometric commit calendar" width="820" />
 </p>
-
----
-
-## 🐍 Contribution Graph  
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Likhit-Kumar/Likhit-Kumar/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Likhit-Kumar/Likhit-Kumar/blob/output/github-contribution-grid-snake-light.svg" />
-  <img alt="github contribution grid snake animation" src="https://github.com/Likhit-Kumar/Likhit-Kumar/blob/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 
