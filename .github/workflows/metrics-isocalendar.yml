@@ -1,0 +1,45 @@
+name: Metrics — Isometric Commit Calendar
+
+on:
+  schedule:
+    - cron: "0 0 * * *"    # daily at midnight UTC (adjust as you like)
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-metrics:
+    runs-on: ubuntu-latest
+    # allow writing files back to the repo
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate isometric calendar (Metrics)
+        # official Metrics action
+        uses: lowlighter/metrics@latest
+        with:
+          # where to write the generated SVG
+          filename: assets/metrics.plugin.isocalendar.svg
+          # required token stored in repo secrets
+          token: ${{ secrets.METRICS_TOKEN }}
+          # minimal base (optional) — tweak in the preview if you like
+          base: ""
+          # enable the isocalendar plugin
+          plugin_isocalendar: yes
+          # duration options: "half-year" or "full-year" (use this if you want full-year)
+          plugin_isocalendar_duration: half-year
+
+      - name: Commit generated assets
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions[bot]
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
+          message: "chore(metrics): update isocalendar"
+          add: "assets/*"
