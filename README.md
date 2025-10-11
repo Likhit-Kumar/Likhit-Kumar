@@ -10,7 +10,7 @@
 I’m a **Software Developer** passionate about **data-driven solutions, scalable systems, and clean design**.  
 I thrive at the intersection of analysis, development, and innovation.
 
-- 🔎 Specialize in **analyzing systems** and **building end-to-end solutions**  
+- 🔎 Specialized in **analyzing systems** and **building end-to-end solutions**  
 - 📊 Experienced with **Building Saas Applications, Provide Products and services**  
 - 🤝 Open to **collaboration on impactful projects**  
 - 📄 [Resume](https://www.linkedin.com/in/likhit-kumar/)  
