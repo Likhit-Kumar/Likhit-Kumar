@@ -17,7 +17,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
@@ -35,9 +35,12 @@ jobs:
           plugin_isocalendar: yes
           # duration options: "half-year" or "full-year" (use this if you want full-year)
           plugin_isocalendar_duration: half-year
+          # fail fast instead of retrying for ~15 min when the token is bad
+          retries: 1
+          retries_delay: 30
 
       - name: Commit generated assets
-        uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@v11
         with:
           author_name: github-actions[bot]
           author_email: 41898282+github-actions[bot]@users.noreply.github.com
